@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tsc-automations",
+  "private_key_id": "7ddd715ca2e0b91da8be3ca75e92cab2ebbdde82",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKraHGc0rAXMpN\nOma0Ir3TW6ig/kc3Hx7ZCLVLvNvJ/gsvDszWDWD2HY3Sham6fTyXW5F6NXuGXhO/\nfPd+x3zVQI4mbidCwM5/e3hV55BWdRJxM7wEJiF+Dq8pMjXT4uXxU15GmaXiGtzb\nVu/8yFdMiZrFNcU+BQAymsdmg05ovwObKl3p7256sUEKripInKnXjbiUl71F7m/W\njqW2dnXKoLWkVj53WpsHpj74JphQ33rrU/dBjWD8oWW4nu0a+GHCncR54fCoXYnZ\nemrhDo3t+PPvh8pAb8jze7ckQ3cGssxo0jpSr8ljmHMWmLjsW19oGbDV7JJh3vfO\nR88okW/XAgMBAAECggEAFc7vbdxLqlLcXR6lch5Hi7MR/C9wN/EBejv9egalJbZ6\nu0Jd7cMRxa8cwA7W2l9jF4GTBUc09pqFMyETZnu4+x9Pobik69dgQN0RxTiTUjeV\nrO2dU7BLVqDmMx9uevwFXwgSnbPRuCMeKacl+plktLJydLmaSC1J6KgOlawXp0iE\nEo3J2lI2O5Yo3OXggHEisMlK8MhyyzVouwZBWhcgoOH2AVfK5SZh4ybQ86CtWpTG\nNet9/vcCIv0zGAkLV76sF0XZAsAizrDEPQiIqNqtOYqlyAQypnCCCb9iux6Y34TQ\nf5YqmP2z7Kd7HSrP5h5EjBHEfvw/sYnfcYFP0Xk/tQKBgQDnyyvvTXCIn2PAlej+\nhzmklt2cNnWIzZZRK67ba8Nm9QTAkl/nUiENuJsLE9mjUVFDZ50Rl9ksMVQ7QBng\ns2Ymk6YXVhsK/uDON8/9f/cvDXCqzD2P05HM+cClZUCW1zXqjSruvNbL7f6N3qoE\n2WSimrI6MNHwo756LRQs4Ax8VQKBgQDf2BUR9P46M3SYcatytygVnzh2FLD/nrDI\n+84p6ZWrSUWriMOM6u/bOBAYAFb3EfsC4XoLfeYLyM1wLOV3cccbGZl9sdkTmm/n\nDPdk1xGSSSez9VmJLDl97G24qMnFoDyoAFTQqLInyASAGST6vuYoy+RonGBf7wrT\nJRqiRd3newKBgC7Njmx+dXeQv4KWgnpKcbAzKkItmOPrpytyp5b0lnsGhFQh+i1q\nHvR3Tw8Yjfx1IfR7SnLP93D98OUZ11/QuZKWg5X4s/MvbdMV3/Bu00lz7EkAfnm5\nHZqG34hF/pm2kNNwd7fG95Qr1RduW2QpRTG0DMLFMs7lMUPYMFezUbIVAoGATuDg\nG+HPLEcxkP6NQfFUyLnAtat467rJ5SkGbzKGsUMyr82TyzaGqyNIWIzWGF5Xq540\n2ZPV2tU5v4uymLKZTO1qbyaarhO/1xV0oC5BXOE2gm20zWeuIreLuoSQBXn/pdvo\nB1dK4EXVgCZcJ5fZlwqyRELGm0eq8tiiWAhyt70CgYEA1DI5ynJUaB8AwSTqQ8fI\nT5vEqChUNf1PKNS/AIq1zNtsOJN1qMz70QD2LZBrXWbwz4lSJPIrEbn9TK4pTEl5\nhl4dwukgvfKgyV46uU8rRtCd4yUCKZSAf1lDqMCzw6PzWXq+CW5a0V/CLh5G9Ph9\nvKm91U97gqLdo7xv5E00QJg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "panoptolog@tsc-automations.iam.gserviceaccount.com",
+  "client_id": "104444059368942046250",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/panoptolog%40tsc-automations.iam.gserviceaccount.com"
+}
